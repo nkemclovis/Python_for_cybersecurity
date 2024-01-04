@@ -4,7 +4,7 @@ This repository holds the Python scripts discussed in the Infosec Institute's Py
 These scripts are designed to run using Python 3.  To use these scripts:
 ```bash
 # Download repo
-git clone https://github.com/hposton/python-for-cybersecurity
+https://github.com/nkemclovis/Python_for_cybersecurity.git
 
 # Enter repo
 cd python-for-cybersecurity
